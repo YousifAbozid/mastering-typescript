@@ -10,8 +10,8 @@ import { CharactersCollection } from "./CharactersCollection";
 // console.log(numbersCollection.data);
 
 // Sorting string below:
-const charactersCollection = new CharactersCollection("YouSif");
-console.log(charactersCollection.data);
-const sorter = new Sorter(charactersCollection);
-sorter.sort();
-console.log(charactersCollection.data);
+// const charactersCollection = new CharactersCollection("YouSif");
+// console.log(charactersCollection.data);
+// const sorter = new Sorter(charactersCollection);
+// sorter.sort();
+// console.log(charactersCollection.data);
