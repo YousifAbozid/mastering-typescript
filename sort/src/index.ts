@@ -4,11 +4,9 @@ import { CharactersCollection } from "./CharactersCollection";
 import { LinkedList } from "./LinkedList";
 
 // Sorting an array of numbers below:
-// const numbersCollection = new NumbersCollection([10, 3, -5, 0]);
-// console.log(numbersCollection.data);
-// const sorter = new Sorter(numbersCollection);
-// sorter.sort();
-// console.log(numbersCollection.data);
+const numbersCollection = new NumbersCollection([10, 3, -5, 0]);
+numbersCollection.sort();
+console.log(numbersCollection.data);
 
 // Sorting string below:
 // const charactersCollection = new CharactersCollection("YouSif");
